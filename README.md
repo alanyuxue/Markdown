@@ -17,7 +17,7 @@
 **This text will be bold**   
 
 `*You **can** combine them*`   
-*You **can** combine them*   
+_You **can** combine them_   
 
 ## Blockquotes
 
