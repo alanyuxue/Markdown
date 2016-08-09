@@ -16,7 +16,7 @@
 `__This will also be bold__`    
 **This text will be bold**   
 
-`*You **can** combine them*`   
+`_You **can** combine them_`   
 _You **can** combine them_   
 
 ## Blockquotes
@@ -48,4 +48,14 @@ As Grace Hopper said:
 ## Backslash Escapes
 
 `\*literal asterisks\*`   
-\*literal asterisks\*
+\*literal asterisks\*   
+
+## Images
+
+Format: `![Alt Text](url)`   
+`![GitHub Logo](/images/logo.png)`   
+
+## Links
+
+`[GitHub](http://github.com)`  
+[GitHub](http://github.com)
