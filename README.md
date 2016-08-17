@@ -58,4 +58,13 @@ Format: `![Alt Text](url)`
 ## Links
 
 `[GitHub](http://github.com)`  
-[GitHub](http://github.com)
+[GitHub](http://github.com)   
+
+## New line
+
+Add three spaces to the end of the line.   
+
+## Tabs
+
+`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it`   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it
