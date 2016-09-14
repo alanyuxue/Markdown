@@ -68,3 +68,16 @@ Add three spaces to the end of the line.
 
 `&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it`   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it
+
+## Code
+1. \`This is the code.\`   
+`This is the code.`
+
+2. \```javascript   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var a;   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a="This is javascript code in a block";   
+\```
+```javascript   
+var a;   
+a="This is javascript code in a block";   
+```
