@@ -73,10 +73,10 @@ Add three spaces to the end of the line.
 1. \`This is the code.\`   
 `This is the code.`
 
-2. \```javascript   
+2. \`\`\`javascript   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var a;   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a="This is javascript code in a block";   
-\```
+\`\`\`
 ```javascript   
 var a;   
 a="This is javascript code in a block";   
