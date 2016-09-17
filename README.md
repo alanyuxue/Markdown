@@ -69,7 +69,7 @@ Add three spaces to the end of the line.
 `&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it`   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it
 
-## Code
+## Code Block
 1. \`This is the code.\`   
 `This is the code.`
 
@@ -80,4 +80,20 @@ Add three spaces to the end of the line.
 ```javascript   
 var a;   
 a="This is javascript code in a block";   
+```   
+
+## Table
+
 ```
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
+```   
+
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
+
+_To Be Continued_
